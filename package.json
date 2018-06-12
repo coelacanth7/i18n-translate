@@ -31,7 +31,7 @@
 		"build"
 	],
 	"bin": {
-		"i18n-translate": "cli.js"
+		"i18next-translate": "cli.js"
 	},
 	"license": "GPL",
 	"bugs": {
