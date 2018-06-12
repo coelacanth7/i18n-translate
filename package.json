@@ -2,7 +2,7 @@
 	"name": "i18next-translate",
 	"description": "Automatically translates i18next JSON files via Google Translate API",
 	"preferGlobal": true,
-	"version": "1.0.9",
+	"version": "1.0.0",
 	"private": false,
 	"author": "Thomas Brüggemann",
 	"dependencies": {
