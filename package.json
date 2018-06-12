@@ -1,6 +1,6 @@
 {
-	"name": "i18n-translate",
-	"description": "Automatically translates require.js i18n JSON files via Google Translate API",
+	"name": "i18next-translate",
+	"description": "Automatically translates i18next JSON files via Google Translate API",
 	"preferGlobal": true,
 	"version": "1.0.9",
 	"private": false,
@@ -20,7 +20,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tomaszbrue/i18n-translate.git"
+		"url": "https://github.com/coelacanth7/i18n-translate.git"
 	},
 	"keywords": [
 		"i18n",
@@ -35,7 +35,7 @@
 	},
 	"license": "GPL",
 	"bugs": {
-		"url": "https://github.com/tomaszbrue/i18n-translate/issues"
+		"url": "https://github.com/coelacanth7/i18n-translate/issues"
 	},
-	"homepage": "https://github.com/tomaszbrue/i18n-translate"
+	"homepage": "https://github.com/coelacanth7/i18n-translate"
 }
